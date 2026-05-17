@@ -1,0 +1,37 @@
+date,description,amount,type,category
+2026-02-16,maggie,25.0,expense,Food
+2026-02-16,maggie,25.0,expense,Food
+2026-02-16,maggie,50.0,expense,Food
+2026-02-16,maggie,50.0,expense,Food
+2026-02-16,maggie,0.0,expense,Food
+2026-02-16,maggie,50.0,expense,Food
+2026-02-16,maggie,50.0,expense,Food
+2026-02-16,maggie,50.0,expense,Food
+2026-02-16,maggie,25.0,expense,Food
+2026-02-14,plum beauty,1350.0,expense,Food
+2026-02-14,plum beauty,1350.0,expense,Food
+2026-02-14,plum beauty,1350.0,expense,Food
+2026-02-14,plum beauty,1350.0,expense,Food
+2026-02-14,plum,1350.0,expense,Food
+2026-02-05,Uber Ride,220.0,expense,Transport
+2026-02-03,Coffee Shop,300.0,expense,Food
+2026-02-01,Grocery Shopping,2100.0,expense,Groceries
+2026-01-29,Bonus,10000.0,income,Bonus
+2026-01-27,Clothing Shopping,2500.0,expense,Shopping
+2026-01-25,Book Purchase,700.0,expense,Education
+2026-01-22,Restaurant Dinner,900.0,expense,Food
+2026-01-20,Internet Bill,999.0,expense,Bills
+2026-01-18,Taxi Ride,300.0,expense,Transport
+2026-01-15,Movie Tickets,600.0,expense,Entertainment
+2026-01-13,Gym Membership,1500.0,expense,Health
+2026-01-11,Amazon Purchase,1200.0,expense,Shopping
+2026-01-10,Zomato Order,450.0,expense,Food
+2026-01-08,Freelance Payment,8000.0,income,Freelance
+2026-01-07,Electricity Bill,1500.0,expense,Bills
+2026-01-05,Grocery Shopping,2200.0,expense,Groceries
+2026-01-04,Netflix Subscription,649.0,expense,Entertainment
+2026-01-03,Uber Ride,180.0,expense,Transport
+2026-01-02,Starbucks Coffee,250.0,expense,Food
+2026-01-01,Salary,50000.0,income,Salary
+2026-05-17,train ticket,2000.0,expense,Transport
+2026-05-17,salary,5000000.0,income,Salary
